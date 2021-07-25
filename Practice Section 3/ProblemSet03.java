@@ -62,24 +62,24 @@ public class ProblemSet03 {
 // 6. Accept at least 10 total inputs.
 //    Uncomment below code to run
 
-         String name, email, city, education, phone, religion, country, university;
-         int age;
-         double ipk;
+//        String name, email, city, education, phone, religion, country, university;
+//        int age;
+//        double ipk;
            
-         name = JOptionPane.showInputDialog("Input your name");
-         email = JOptionPane.showInputDialog("Input your email");
-         phone = JOptionPane.showInputDialog("Input your phone number");
-         age = Integer.parseInt(JOptionPane.showInputDialog("Input your age"));
-         religion = JOptionPane.showInputDialog("Input your religion");
-         university = JOptionPane.showInputDialog("Input your University");
-         ipk = Double.parseDouble(JOptionPane.showInputDialog("Input your ipk (Example: 3.6)"));
-         city = JOptionPane.showInputDialog("Input your city");
-         country = JOptionPane.showInputDialog("Input your country ");
+//        name = JOptionPane.showInputDialog("Input your name");
+//        email = JOptionPane.showInputDialog("Input your email");
+//        phone = JOptionPane.showInputDialog("Input your phone number");
+//        age = Integer.parseInt(JOptionPane.showInputDialog("Input your age"));
+//        religion = JOptionPane.showInputDialog("Input your religion");
+//        university = JOptionPane.showInputDialog("Input your University");
+//        ipk = Double.parseDouble(JOptionPane.showInputDialog("Input your ipk (Example: 3.6)"));
+//        city = JOptionPane.showInputDialog("Input your city");
+//        country = JOptionPane.showInputDialog("Input your country ");
             
-         JOptionPane.showMessageDialog(null,"Nama : "+name+ "\nEmail : "+email+
-                 "\nPhone : "+phone+ "\nAge : "+age+ "\nReligion : "+religion+
-                 "\nUniversity : "+university+ "\nIPK : "+ipk+ "\nCity : "+city+
-                 "\nCountry : "+country);
+//        JOptionPane.showMessageDialog(null,"Nama : "+name+ "\nEmail : "+email+
+//              "\nPhone : "+phone+ "\nAge : "+age+ "\nReligion : "+religion+
+//              "\nUniversity : "+university+ "\nIPK : "+ipk+ "\nCity : "+city+
+//              "\nCountry : "+country);
              
     }
     
